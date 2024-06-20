@@ -16,11 +16,11 @@ Classmates:
 - Natalie
 
 Countries:
-1. County 1
-2. County 2
-3. Country 3
-4. Country 4
-5. Country 5
+1. Germany
+2. Finland
+3. Belgium
+4. Finland
+5. Poland
 
 ![Youtube logo](https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png)
 
