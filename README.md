@@ -1,7 +1,7 @@
 # Mt first Github Repo
 ## Author name: Alex Bruch
 ### Adress: Berlin
-#### Counry: Germany
+#### Country: Germany
 
 Email: [Email](alex.bruch@dci-student.org)
 
