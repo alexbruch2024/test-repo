@@ -47,3 +47,7 @@ My first footnote[^1]
 Horizontal rule
 
 ***
+
+Youtube Video:
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/S2qiVX05woI/0.jpg)](http://www.youtube.com/watch?v=S2qiVX05woI)
